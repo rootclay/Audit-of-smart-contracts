@@ -1,7 +1,9 @@
 0x00A0cbe98E4D110b0Fa82646152D77Babf2951D0
+
 ## Vulnerability Name
 Underflows
-## 漏洞地址
+
+## Vulnerability details
 Contract Address: 
 0x00A0cbe98E4D110b0Fa82646152D77Babf2951D0
 We can view the contract details at the site [etherscan.io](https://etherscan.io/address/0x00a0cbe98e4d110b0fa82646152d77babf2951d0#code)
@@ -166,6 +168,7 @@ There are vulnerabilities in the two lines of code selected in the red box in th
 
 
 ## We debug it in the remix
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2iyO38o4A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
