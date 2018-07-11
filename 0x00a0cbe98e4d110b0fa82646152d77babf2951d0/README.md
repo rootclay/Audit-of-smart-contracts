@@ -169,6 +169,6 @@ There are vulnerabilities in the two lines of code selected in the red box in th
 
 ## We debug it in the remix
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Tu2iyO38o4A?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![We debug it in the remix](https://img.youtube.com/vi/Tu2iyO38o4A/0.jpg)](https://www.youtube.com/watch?v=Tu2iyO38o4A)
 
 
